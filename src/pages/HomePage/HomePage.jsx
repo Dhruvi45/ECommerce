@@ -4,7 +4,6 @@ import {
   Banner,
   CategoryCard,
   TrendingCard,
-  Footer,
 } from "./HomePageComponents";
 function HomePage() {
   return (
@@ -13,7 +12,6 @@ function HomePage() {
       <Banner />
       <CategoryCard />
       <TrendingCard />
-      <Footer />
     </div>
   );
 }
